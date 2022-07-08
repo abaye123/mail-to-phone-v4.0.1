@@ -38,6 +38,10 @@ https://docs.google.com/spreadsheets/d/1CuMfGMHbdymIMQCQJwX68jjSWalHs9LwE_VTeyxE
 
  שלב חמישי:** כעת כנסו לממשק גוגל סקריפט בכתובת** script.google.com ולחצו על האייקון של השעון בצד ימין ותגדירו ריצות (טריגרים) לסקריפט.
  
-![image](https://user-images.githubusercontent.com/46202069/177993246-d0548022-5e19-4317-b9e7-d1aa358859d2.png)
+![image](https://user-images.githubusercontent.com/46202069/177995808-ebe5cca0-9d48-42b7-a944-5b1855d98cf2.png)
+
 
 יש להגדיר טריגר לפונקציות הללו: "MailToPhoneM", ו- "sendEmail". ההמלצה שלי היא לראשונה להגדיר כל 10 דק', ולשנייה כל 1-2 דק' ולא יותר כדי לא לעבור את המכסה היומית של גוגל סקריפט למניעת שגיאות.
+
+#### by abaye. Enjoyed? I would love for you to support me!
+https://www.buymeacoffee.com/abaye
